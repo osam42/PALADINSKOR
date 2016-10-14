@@ -1,0 +1,146 @@
+# Deck Templates
+
+[Androxus]
+Deck1_Name           = Shot in the Dark
+Deck1_Description    = Stay healthy and mobile, hit your enemies in the head to take them down.
+Deck2_Name           = Gunslinger
+Deck2_Description    = Dash forward and use your increased attack speed to quickly kill your target.
+Deck3_Name           = Return Fire
+Deck3_Description    = Defend yourself by catching enemy shots and firing them back.
+
+# Barik
+[Engineer]
+Deck1_Name           = Defender
+Deck1_Description    = Defend your team with a supercharged barricade.
+Deck2_Name           = Master Builder
+Deck2_Description    = Create fortifications by setting up powerful turrets.
+Deck3_Name           = Red Streak
+Deck3_Description    = Combine Accelerator Field and Rocket Boots to chase down your targets, ultimate Dwarven Mobility.
+
+# Buck
+[Warrior]
+Deck1_Name           = Berserker
+Deck1_Description    = Great self-healing will allow you to stay alive when anyone else might die.
+Deck2_Name           = Stop and Lock
+Deck2_Description    = Use net shot to lock down your oppenents and eliminate them.
+Deck3_Name           = Bounce House
+Deck3_Description    = Heroically leap into battle, sending your enemies flying.
+
+# Cassie
+[Huntress]
+Deck1_Name           = Huntress
+Deck1_Description    = Use Fatal Sign and Sky Warden to keep even the largest prey at bay.
+Deck2_Name           = Rock and Roll
+Deck2_Description    = Use dodge roll to position aggressively and hit your shot. In doing so, refresh your dodge roll and do it again.
+Deck3_Name           = Rain Down
+Deck3_Description    = Use Fatal Sign and Sky Warden to keep even the largest prey at bay.
+
+# Evie
+[Mage]
+Deck1_Name           = Freeze and Shatter
+Deck1_Description    = Hit your enemies hard, then ice block when you're about to die to heal up and escape.
+Deck2_Name           = Arctic Blast
+Deck2_Description    = Use your iceblock to lock down groups of enemies so your team can finish them off.
+Deck3_Name           = Blinkstrike
+Deck3_Description    = Blink into combat, annihilate your enemies, then return to safety.
+
+# Fernando
+[Knight]
+Deck1_Name           = Shelter
+Deck1_Description    = Be a tank for your team and absorb enemy attacks with your shield.
+Deck2_Name           = Colossus
+Deck2_Description    = Use your massive health pool and multiple shields to stay alive.
+Deck3_Name           = Pyromancer
+Deck3_Description    = Chase down your target with a scorching fireball then clean them up with your lance.
+
+# Grohk
+[Shaman]
+Deck1_Name           = Storm Aegis
+Deck1_Description    = Supercharge your Totemic Ward to keep your team safe.
+Deck2_Name           = Restoration
+Deck2_Description    = Keep your team healthy with totemic magic.
+Deck3_Name           = Conductor
+Deck3_Description    = Power up your Chain Lightning with Lightning Rod and zap groups of enemies.
+
+[Grover]
+Deck1_Name           = Rage
+Deck1_Description    = Get into melee and cut down your opponents.
+Deck2_Name           = Lumbering Jack
+Deck2_Description    = Use a mighty axe throw to fell your enemies.
+Deck3_Name           = Guardian
+Deck3_Description    = Start fights by charging into the fray with your teammates. 
+
+# Pip
+[Alchemist]
+Deck1_Name           = Volatile Concoction
+Deck1_Description    = Use Malady to stop healing and burst down targets.
+Deck2_Name           = Slippery Scientist
+Deck2_Description    = Take to the air and stay mobile to bamboozle your enemies
+Deck3_Name           = Doctor Pip
+Deck3_Description    = Keep your team healed and ready to fight.
+
+# Skye
+[Assassin]
+Deck1_Name           = From the Shadows
+Deck1_Description    = Attack from Hidden, then use Smoke Screen to get back into stealth.
+Deck2_Name           = Toxic Temptress
+Deck2_Description    = A barrage of venomous darts will bury any foe.
+Deck3_Name           = Killing Spree
+Deck3_Description    = Eliminate all of your enemies, one by one.
+
+# Ruckus and Bolt
+[Mech]
+Deck1_Name           = Stainless Steel
+Deck1_Description    = Power up your Emitter to deflect your enemy's attacks.
+Deck2_Name           = Gun Emplacement
+Deck2_Description    = Find a fortified position and unleash a rain of bullets on your enemies
+Deck3_Name           = Airbourne
+Deck3_Description    = Take to the skies to outflank your enemies with superior mobility.
+
+[Kinessa]
+Deck1_Name           = Keen Eye
+Deck1_Description    = Stay on the move and quickly take down your enemies.
+Deck2_Name           = Prodigal Sniper
+Deck2_Description    = Aim for your target's head to disorient them and escape.
+Deck3_Name           = Trapper
+Deck3_Description    = Set up a nest of Oppressor Mines to lock down your opponents and find easy shots.
+
+[Ying]
+Deck1_Name           = Arcane Blast
+Deck1_Description    = Eliminate your enemies with a barrage of illusory blasts.
+Deck2_Name           = Detonation
+Deck2_Description    = Detonate your illusions for massive damage, then summon more.
+Deck3_Name           = Perennial Flower
+Deck3_Description    = Send in your illusions to create health drops for your team, then use Dimensional Link to make even more.
+
+[Drogoz]
+Deck1_Name           = Air Strike
+Deck1_Description    = Use thrust to get airborne and attack your enemies from above.
+Deck2_Name           = Master's Torrent
+Deck2_Description    = Unleash a disruptive torrent of death with your Salvo.
+Deck3_Name           = Spit Ballin'
+Deck3_Description    = Make clever use of your Expectorate to control the battlefield.
+
+[BombKing]
+Deck1_Name           = Bad Attitude
+Deck1_Description    = A powered up Grumpy Bomb will make your enemies have a bad day.
+Deck2_Name           = Pop Fly
+Deck2_Description    = Use Poppy Bomb to take to the skies and outmaneuver your opponents.
+Deck3_Name           = Sticky Situation
+Deck3_Description    = Employ clever use of sticky bombs to manipulate the battlefield.
+
+[Viktor]
+Deck1_Name           = Locked and Loaded
+Deck1_Description    = Aim down your sights and take down your enemies.
+Deck2_Name           = Demolition Man
+Deck2_Description    = Flush your enemies out of cover with powerful grenades.
+Deck3_Name           = Guerilla Warfare
+Deck3_Description    = Stay on the move to outmaneuver the opposing team.
+
+[Makoa]
+Deck1_Name           = Shellfies
+Deck1_Description    = What kind of photos does a turtle take?
+Deck2_Name           = Shellphone
+Deck2_Description    = What do turtles use to communicate?
+Deck3_Name           = Shell-block
+Deck3_Description    = Where do you send turtles who commit crimes?
